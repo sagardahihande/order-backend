@@ -10,18 +10,13 @@ This project implements a scalable backend for food delivery orders.
 
 ## Setup
 
-1. Start MySQL using Docker:
-   ```bash
-   docker-compose up -d
-   ```
+1. clone - 
 
 2. Configure DB credentials in `src/main/resources/application.properties`.
 
 3. Build & run:
-   ```bash
-   mvn clean package
-   java -jar target/order-backend-1.0.0.jar
-   ```
+  mvn spring-boot:run
+  
 
 ## APIs
 
