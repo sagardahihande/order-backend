@@ -10,7 +10,7 @@ This project implements a scalable backend for food delivery orders.
 
 ## Setup
 
-1. clone - 
+1. clone - git clone https://github.com/sagardahihande/order-backend.git
 
 2. Configure DB credentials in `src/main/resources/application.properties`.
 
